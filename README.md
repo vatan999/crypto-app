@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Home Page
+<img width="960" alt="crypto-app-home" src="https://github.com/vatan999/crypto-app/assets/110407605/69be647a-dd62-4aae-be2b-3888c7448b3c">
+
+### Coins Page
+<img width="945" alt="coins-page" src="https://github.com/vatan999/crypto-app/assets/110407605/df4a9fd1-cf01-489e-bf43-1eb776b191d8">
